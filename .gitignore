@@ -1,7 +1,11 @@
 # files
 plant_ids.csv
 soil_moisture.md
-soil_moisture.csv
+soil_moisture*.csv
+credentials.json
+token.json
+quickstart.py
+emails.txt
 
 
 # rest from python template
